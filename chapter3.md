@@ -20,6 +20,8 @@ plugins:
 - 设计目标均方根半径在近轴想面上最小
 - 无其他限制
 
+![](/assets/TEL(O$U2A5SSVAF`@HDN6HK.png)
+
 
 
 
