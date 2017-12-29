@@ -1,36 +1,10 @@
 {
-    "author": "auroneboss",
-    "description": null,
-    "extension": null,
-    "generator": "site",
-    "isbn": null,
-    "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
-        },
-        "sidebar": {
+    "plugins": [
+        "mathjax"
+    ],
+     "pluginsConfig": {
+        "mathjax":{
+            "forceSVG": true
         }
-    },
-    "output": null,
-    "pdf": {
-        "fontSize": 12,
-        "footerTemplate": null,
-        "headerTemplate": null,
-        "margin": {
-            "bottom": 36,
-            "left": 62,
-            "right": 62,
-            "top": 36
-        },
-        "pageNumbers": false,
-        "paperSize": "a4"
-    },
-	"gitbook": ">=3.1.0",
-    "plugins": ["mathjax-commonhtml"],
-    "title": null,
-    "variables": {}
+    }
 }
