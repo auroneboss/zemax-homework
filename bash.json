@@ -29,8 +29,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": {
-	["mathjax"]},
+    "plugins": ["mathjax","multipart"],
     "title": null,
     "variables": {}
 }
