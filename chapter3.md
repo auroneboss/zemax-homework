@@ -22,6 +22,21 @@ plugins:
 
 ![](/assets/TEL(O$U2A5SSVAF`@HDN6HK.png)
 
+## 2. 具体设计步骤
+1. System->general->Aperture设置入瞳直径40
+1. System->Filed设置视场
+
+   子午方向上正向视场，即Y-filed，取三个视场
+   0，0.707$$\omega$$，以及$$\omega$$
+1. System->Wavelengths设置波长
+1. 设置透镜参数如图
+![](/assets/D5}R)U(WXS8CN}M{_VUCJUF.png)
+
+从上到下分别是物面光阑面像面![](/assets/C621F7JU7INP1TA(LW1HTUU.png)
+
+然后通过设置2界面的F数使自动设置2的曲率半径![](/assets/QUS`96QV%H()}Q7J$9QTN$I.png)
+   
+   
 
 
 
