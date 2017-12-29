@@ -1,6 +1,6 @@
 ---
 plugins:
-  - mathjax
+  - katex
 ---
 
 # 单透镜设计优化
