@@ -29,7 +29,8 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["mathjax","multipart"],
+	"gitbook": ">=3.1.0",
+    "plugins": ["mathjax-commonhtml"],
     "title": null,
     "variables": {}
 }
