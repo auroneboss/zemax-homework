@@ -35,6 +35,9 @@ plugins:
 从上到下分别是物面光阑面像面![](/assets/C621F7JU7INP1TA(LW1HTUU.png)
 
 然后通过设置2界面的F数使自动设置2的曲率半径![](/assets/QUS`96QV%H()}Q7J$9QTN$I.png)
+设置后
+![](/assets/JTXUG_YPO9$TKAGZU1_D9$I.png)
+
    
    
 
