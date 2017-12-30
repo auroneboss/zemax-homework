@@ -22,4 +22,5 @@
 ###2.3开始使用优化功能优化
 并自动更新。
 ![](/assets/5.4.png)
+<span style="background-color: #FFFF00">Marked text</span>
 <mark>每个图里面三个图的意思是三个不同的视场<mark>
